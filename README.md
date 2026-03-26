@@ -38,7 +38,7 @@
 ## 🔗 Original Development Repo
 
 - Official Development Repo : https://github.com/Sourav-IIITBPL/preflight 
-- Website : https://github.com/Sourav-IIITBPL/preflight
+- Website : https://preflight-v1.vercel.app/
 
 ---
 
