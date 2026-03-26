@@ -31,13 +31,14 @@
 
 ## Demo Video
 
->  **[Watch the Demo →](YOUR_DEMO_VIDEO_LINK_HERE)**
+>  **[Watch the Demo here →](https://drive.google.com/file/d/1QfBX4rMf9ueutr0_VLFvg8r8XypDIAq4/view?usp=drivesdk)**
 
 ---
 
 ## 🔗 Original Development Repo
 
-Development Repo : https://github.com/Sourav-IIITBPL/preflight 
+- Official Development Repo : https://github.com/Sourav-IIITBPL/preflight 
+- Website : https://github.com/Sourav-IIITBPL/preflight
 
 ---
 
